@@ -1,0 +1,7 @@
+#realCanvas, #tempCanvas {position: absolute;left:280px;top:50px;border: 5px solid;cursor: crosshair;}
+#tool1{position:absolute; left:280px; top:520px}
+#tool2{position:absolute; left:390px; top:520px}
+#tool3{position:absolute; left:465px; top:520px}
+#table1{position: absolute;left:600px;top:518px; }
+#files{position: absolute;color:#000;left:1000px;top:80px;height:570px ;width: 250px;overflow:auto;}
+
